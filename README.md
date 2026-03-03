@@ -66,7 +66,7 @@ Stock management system with:
 
 - 🌍 Indonesia
 - 💼 Open for collaboration
-- 📧 your.email@example.com
+- 📧 norma.indev@gmail.com
 
 ---
 
