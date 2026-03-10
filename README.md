@@ -8,7 +8,7 @@
 - 🔭 Currently building web applications using **Laravel**
 - 📱 Developing mobile apps with **Flutter**
 - 🏗 Interested in building **Micro SaaS for Construction & Productivity**
-- 🐳 Currently learning **Docker & System Architecture**
+- 🐳 System Architecture**
 - 🎯 Goal: Build scalable and profitable SaaS products
 
 ---
